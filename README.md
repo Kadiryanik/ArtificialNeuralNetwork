@@ -1,2 +1,0 @@
-# ArtificialNeuralNetwork
-Some Implements
